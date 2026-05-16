@@ -1,5 +1,6 @@
 # Aqua Sports Simulator (Rust Edition)
 
+<img width="1001" height="782" alt="スクリーンショット 2026-05-16 092556" src="https://github.com/user-attachments/assets/a83b9cbb-c7d8-4d49-89ff-e9f777b5907c" />
 Java Swingで書かれたレトロなミニゲームを、Rustの軽量2Dゲームエンジン `macroquad` を使用して移植・拡張した作品です。
 
 ## 🎮 ゲームモード
@@ -11,4 +12,4 @@ Rustがインストールされた環境で以下を実行してください。
 ```bash
 cargo run
 
-<img width="1001" height="782" alt="スクリーンショット 2026-05-16 092556" src="https://github.com/user-attachments/assets/a83b9cbb-c7d8-4d49-89ff-e9f777b5907c" />
+
